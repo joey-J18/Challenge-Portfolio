@@ -76,7 +76,13 @@ nav{
     font-size: 13px;
     font-family: 'Poppins', sans-serif;
 }
-
+.skill{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+}
 
 
 
