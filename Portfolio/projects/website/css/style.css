@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(143, 159, 255);
+}
+
+div h1{
+    width: 200px;
+}
+
+
+.poster{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+}
+
+.posterimg{
+    width: 200px;
+    height: 300px;
+}
+
+#poster1{
+    background-color: rgb(251, 255, 0);
+}
+
+#poster2{
+    background-color: rgb(2, 4, 150);
+}
+
+#poster3{
+    background-color: brown;
+}

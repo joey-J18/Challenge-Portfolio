@@ -39,7 +39,7 @@ nav{
 }
 
 .about-section{
-    background: url(../pic.jpg) no-repeat left;
+    background: url(../img/pic.jpg) no-repeat left;
     background-size: 55%;
     background-color: #fdfdfd;
     overflow: hidden;

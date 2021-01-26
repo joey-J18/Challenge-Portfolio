@@ -42,21 +42,36 @@ nav{
     
     padding: 20px;
    
-    background: url(../landscape-1610967183946-9570.jpg) no-repeat;
+    background: url(../img/landscape-1610967183946-9570.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 84.4vh;
     transition: 0.5s;
   }
 
-.content .card p{
-    background: #fff;
-    padding: 15px;
-    margin-bottom: 10px;
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    text-align: center;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+    background-color: #5d4954;
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
     font-size: 14px;
-    opacity: 0.8;
-}
+    font-family: 'Poppins', sans-serif;
 
-
+  }
   
   
