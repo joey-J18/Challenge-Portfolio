@@ -14,10 +14,10 @@
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Klaar  |
 | Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | Klaar  |
-| ...         | Styling van elementen bepalen                  | 01:00               | Bezig  |
-| Realiseren  | Bestanden aanmaken                             | 00:30               | Bezig  |
+| ...         | Styling van elementen bepalen                  | 01:00               | Klaar  |
+| Realiseren  | Bestanden aanmaken                             | 00:30               | Klaar  |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              | 02:00               | Bezig  |
+| Testen      | Applicatie testen                              | 02:00               | Klaar  |
 | ...         |                                                |                     |        |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:00               | Bezig  |
 | ...         |                                                |                     |        |
