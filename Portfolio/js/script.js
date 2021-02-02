@@ -1,7 +1,7 @@
 var bezoeker = {
-    voornaam : prompt("Wat is je voornaam"),
+    voornaam : prompt("Wat is uw voornaam + Achternaam"),
    
-    leeftijd : prompt("wat is je leeftijd"),
+    leeftijd : prompt("wat is uw leeftijd"),
 };
 
 
