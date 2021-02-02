@@ -4,4 +4,4 @@ Student : `Joey Janmaat`
 
 Klas    : `LCTAOO0D`
 
-Link    : [joey-j18.github.io](github_username.github.io)
+Link    : [https://joey-j18.github.io/Challenge-Portfolio/Portfolio/](https://joey-j18.github.io/Challenge-Portfolio/Portfolio/)
